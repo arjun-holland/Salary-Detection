@@ -7,6 +7,7 @@ This project is a simple web application built with Flask that predicts salary b
 - Usage
 - screenshots
 - License
+- Acknowledgments
 ## Project Overview
 - The goal of this project is to demonstrate how to:
 - Train a Linear Regression model using a dataset (Salary_Data.csv).
@@ -30,6 +31,16 @@ This project is a simple web application built with Flask that predicts salary b
 - Enter the number of years of experience in the input field.
 - Click the "Predict!" button.
 - The predicted salary will be displayed on the next page.
+## Screenshots
+### Home Page
+![Home Page](output1.png)
+### Home Page with Input Data
+![Home Page](output2.png)
+### Prediction Page
+![Prediction Page](output3.png)
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 - Thanks to [Scikit-learn](https://scikit-learn.org/) for providing the Linear Regression model.
